@@ -52,10 +52,6 @@ Ensuring software quality through **Manual Testing, Automation Testing, API Test
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Java -->
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
 
 <!-- Eclipse -->
 <a href="https://www.eclipse.org/" target="_blank">
